@@ -1,0 +1,9 @@
+Id,FirstName,LastName,PhoneNumber,Email,TimeInterval,LinkedInProfile,GitHubProfile,Note
+string,88,888,string,string,string,string,string,string
+string,string,string,string,s-tring,string,string,string,string
+string,string,string,string,mntserh@gmail.com,string,string,string,string
+string,string,string,string,mon@gmail.com,string,string,string,string
+string,string,string,string,mmooo@gmail.com,string,string,string,string
+string,string,string,string,mmmmmmm@gmail.com,string,string,string,string
+string,string,string,string,ggggg@gmail.com,string,string,string,string
+,john,doe,123,johndoe@gmail.com,,https://www.linkedin.com/,https://www.linkedin.com/,note
